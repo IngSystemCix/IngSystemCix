@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mi nombre es Juan Romero Collazos y soy estudiante de la<br>carrera de Ingeniería de Sistemas en la Universidad Tecnológica<br>del Perú. Me apasiona la programación y tengo conocimientos<br>en diferentes lenguajes como HTML5, Java, C++ y Python.<br>Me gusta desarrollar aplicaciones web, móviles y de escritorio<br>que resuelvan problemas reales y que aporten valor a la<br>sociedad. Tengo experiencia en el uso de herramientas de<br>diseño, bases de datos, frameworks y librerías. Estoy en<br>constante aprendizaje y me interesa trabajar en proyectos<br>innovadores y desafiantes.
+Mi nombre es Juan Romero Collazos y soy estudiante de la<br>carrera de Ingeniería de Sistemas en la Universidad Tecnológica<br>del Perú. Me apasiona la programación y tengo conocimientos<br>en diferentes lenguajes como HTML5, Java, C++, Python, etc.<br>Me gusta desarrollar aplicaciones web, móviles y de escritorio<br>que resuelvan problemas reales y que aporten valor a la<br>sociedad. Tengo experiencia en el uso de herramientas de<br>diseño, bases de datos, frameworks y librerías. Estoy en<br>constante aprendizaje y me interesa trabajar en proyectos<br>innovadores y desafiantes.
 
 
 ## 🌐 Socials:
