@@ -1,6 +1,40 @@
 # 💫 About Me:
-Soy un estudiante de Ingeniería de Sistemas e Informática con más de tres años de experiencia en el desarrollo de software. Poseo habilidades avanzadas en diversos lenguajes y tecnologías, incluyendo:<br><br>Lenguajes de Programación:<br><br>• JavaScript (JS)<br>• TypeScript (TS)<br>• Java<br>• PHP<br>• C++<br>• C<br><br>Lenguajes de Marcado y Estilos:<br><br>• HTML5<br>• CSS<br><br>Bases de Datos:<br><br>• SQL Server<br>• Firebase<br><br>Frameworks y Tecnologías:<br><br>• Laravel<br>• React<br>• Angular<br>• Spring<br><br>Herramientas y Otros Conocimientos:<br><br>• Linux<br>• Arduino<br>• Frameworks CSS como Tailwind, Bulma y Bootstrap<br>• Control de Versiones con Git<br>• Desarrollo de API RESTful para integración de sistemas<br><br>Mi experiencia práctica y profundo conocimiento técnico me han permitido trabajar de manera efectiva en proyectos diversos, desde aplicaciones web hasta sistemas embebidos. Estoy comprometido con seguir aprendiendo y aplicando las últimas tendencias en tecnología para impulsar el éxito de cualquier proyecto en el que participe.
+Soy un estudiante de Ingeniería de Sistemas e Informática con más de tres años de experiencia en el desarrollo de software.
 
+**Poseo habilidades avanzadas en diversos lenguajes y tecnologías, incluyendo:**
+
+- **Lenguajes de Programación:**
+  - JavaScript (JS)
+  - TypeScript (TS)
+  - Java
+  - PHP
+  - C++
+  - C
+
+- **Lenguajes de Marcado y Estilos:**
+  - HTML5
+  - CSS
+
+- **Bases de Datos:**
+  - SQL Server
+  - Firebase
+
+- **Frameworks y Tecnologías:**
+  - Laravel
+  - React
+  - Angular
+  - Spring
+
+- **Herramientas y Otros Conocimientos:**
+  - Linux
+  - Arduino
+  - Frameworks CSS como Tailwind, Bulma y Bootstrap
+  - Control de Versiones con Git
+  - Desarrollo de API RESTful para integración de sistemas
+
+Mi experiencia práctica y profundo conocimiento técnico me han permitido trabajar de manera efectiva en proyectos diversos, desde aplicaciones web hasta sistemas embebidos.
+
+Estoy comprometido con seguir aprendiendo y aplicando las últimas tendencias en tecnología para impulsar el éxito de cualquier proyecto en el que participe.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-bladimir-romero-collazos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ingsystemcix) 
