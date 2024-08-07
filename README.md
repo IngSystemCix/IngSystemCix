@@ -10,8 +10,8 @@ I am a Systems Engineering and Computer Science student with over three years of
 *   🧠  I'm learning Deepening my knowledge in microservices architecture
 *   🤝  I'm open to collaborating on Innovative projects that leverage cutting-edge technologies
 *   ⚡  I have a passion for open-source contributions
-<a href="https://www.github.com/IngSystemCix" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/IngSystemCix?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+<br>
+<a href="https://www.github.com/IngSystemCix" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/IngSystemCix?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
