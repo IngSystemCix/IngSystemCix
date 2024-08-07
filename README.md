@@ -38,6 +38,12 @@ I am a Systems Engineering and Computer Science student with over three years of
 ### Youtube
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![POO en JAVA | Clase 04](https://ytcards.demolab.com/?id=5blNajZUeKg&title=POO+en+JAVA+%7C+Clase+04&lang=en&timestamp=1722499781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "POO en JAVA | Clase 04")](https://www.youtube.com/watch?v=5blNajZUeKg)
+[![POO en JAVA | Clase 03](https://ytcards.demolab.com/?id=yhILom3YsGM&title=POO+en+JAVA+%7C+Clase+03&lang=en&timestamp=1722060843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "POO en JAVA | Clase 03")](https://www.youtube.com/watch?v=yhILom3YsGM)
+[![POO en JAVA | Clase 02](https://ytcards.demolab.com/?id=lyx30s_eKsM&title=POO+en+JAVA+%7C+Clase+02&lang=en&timestamp=1721886589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "POO en JAVA | Clase 02")](https://www.youtube.com/watch?v=lyx30s_eKsM)
+[![VLAN | Clase 05](https://ytcards.demolab.com/?id=ZujY44KSfeg&title=VLAN+%7C+Clase+05&lang=en&timestamp=1721811203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VLAN | Clase 05")](https://www.youtube.com/watch?v=ZujY44KSfeg)
+[![POO en JAVA | Clase 01](https://ytcards.demolab.com/?id=Rvxw3nvsgMU&title=POO+en+JAVA+%7C+Clase+01&lang=en&timestamp=1721808931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "POO en JAVA | Clase 01")](https://www.youtube.com/watch?v=Rvxw3nvsgMU)
+[![VLSM, DHCP, DNS y HTTP | Clase 04](https://ytcards.demolab.com/?id=sDTF5hwWkR0&title=VLSM%2C+DHCP%2C+DNS+y+HTTP+%7C+Clase+04&lang=en&timestamp=1720641582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VLSM, DHCP, DNS y HTTP | Clase 04")](https://www.youtube.com/watch?v=sDTF5hwWkR0)
 <!-- END YOUTUBE-CARDS -->
 
 
